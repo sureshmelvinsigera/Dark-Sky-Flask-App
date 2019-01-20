@@ -10,3 +10,6 @@ conda create python=3.6 -n gm-weather-app
 ```
 source activate gm-weather-app
 ```
+```
+pip install -r Dark-Sky-Flask-App/requirements.txt 
+```
