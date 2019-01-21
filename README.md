@@ -1,6 +1,6 @@
 # Dark Sky Flask App
 
-![Dark Sky Flask App]("https://github.com/sureshmelvinsigera/Dark-Sky-Flask-App/blob/master/resources/Dark-Sky-Flask-App.gif")
+![Dark Sky Flask App](https://github.com/sureshmelvinsigera/Dark-Sky-Flask-App/blob/master/resources/Dark-Sky-Flask-App.gif)
 
 This app uses the Dark Sky API to fetch data. To obtain the API key, please visit following URL https://darksky.net/dev
 
