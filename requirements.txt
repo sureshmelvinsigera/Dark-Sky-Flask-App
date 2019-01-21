@@ -1,0 +1,4 @@
+requests==2.21.0
+Flask==1.0.2
+flask_cors==3.0.7
+geopy==1.18.1
